@@ -1,6 +1,5 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Muhammed(111|Ad el)|https://Mohamed.Ad)"title="👋 Hi there! I'm (Mohamed(111|Ad el)|https://raymond.li)"/>](https://raymond.li/)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=3a3del.3a3del&color=00cf00)
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +38,5 @@ Here are some ideas to get you started:
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝚂𝚎𝚙𝚝𝚎𝚖𝚋𝚎𝚛 𝟸0𝟸𝟺
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Electrical Electronics Communitcations Engineering 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Cairo, Class 𝚂𝚎𝚙𝚝𝚎𝚖𝚋𝚎𝚛 𝟸0𝟸6                    
+  
